@@ -1,4 +1,4 @@
 Project Structure:
 -
-- "code -- v.*" is the eclipse predictions code with version (-- version.N)
-- "medios_eclipses" is the eclipse predictions article 
+- "Medios_Eclipse.ipynb" is the eclipse predictions code with version (-- version.N)
+- "medios_eclipses.pdf" is the eclipse predictions article 
